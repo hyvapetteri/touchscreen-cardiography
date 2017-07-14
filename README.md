@@ -1,4 +1,6 @@
 # touchscreen-cardiography
+![DOI https://doi.org/10.5281/zenodo.827194](https://zenodo.org/badge/95604106.svg)
+
 Measuring the heartbeat using a capacitive touch screen. FT5206-controlled touchscreen + arduino UNO
 
 ## touchscreen = capacitive sensor array
